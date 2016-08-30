@@ -1,0 +1,26 @@
+{
+  "name": "mosql-collection-map-generator",
+  "version": "0.0.1",
+  "description": "A package to generate a yaml map file for stripe/mosql tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yktv4/mosql-collection-map-generator.git"
+  },
+  "keywords": [
+    "mosql",
+    "mongodb",
+    "postgres",
+    "collection",
+    "generate"
+  ],
+  "author": "Igor Yakutovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yktv4/mosql-collection-map-generator/issues"
+  },
+  "homepage": "https://github.com/yktv4/mosql-collection-map-generator#readme"
+}
