@@ -38,3 +38,6 @@ jspm_packages
 
 # IDE files
 .idea
+
+# Project files
+exclude.json

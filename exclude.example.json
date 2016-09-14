@@ -1,0 +1,14 @@
+{
+  "fields": [
+    "id",
+    "TripRequestAnalytics.data",
+    "TransportProvider.insurance",
+    "DriverForApproval.vehicle",
+    "DMCPointToPoint.rates",
+    "DMCPaymentTransfer.lineItems"
+  ],
+  "collections": [
+    "GeoStashed",
+    "VehicleStore"
+  ]
+}
